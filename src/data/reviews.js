@@ -1,0 +1,10 @@
+export const seedReviews = [
+  { id: "r1", orderId: "o1", gigId: "g1", freelancerId: "f1", clientId: "c1", clientName: "Aarav Mehta", rating: 5, comment: "Riya delivered a beautiful, fast website. Communication was excellent throughout.", createdAt: "2026-08-18T10:00:00Z" },
+  { id: "r2", orderId: "o4", gigId: "g7", freelancerId: "f4", clientId: "c2", clientName: "Natalie Brooks", rating: 5, comment: "Kabir's edit made my vlog feel professional. Captions were spot on!", createdAt: "2026-09-06T10:00:00Z" },
+  { id: "r3", orderId: null, gigId: "g1", freelancerId: "f1", clientId: "x1", clientName: "Michael Torres", rating: 4, comment: "Great quality and clean code. Slight delay but worth the wait.", createdAt: "2026-07-01T10:00:00Z" },
+  { id: "r4", orderId: null, gigId: "g3", freelancerId: "f2", clientId: "x2", clientName: "Priya Nair", rating: 5, comment: "Daniel nailed our brand. The logo feels exactly like us.", createdAt: "2026-07-20T10:00:00Z" },
+  { id: "r5", orderId: null, gigId: "g5", freelancerId: "f3", clientId: "x3", clientName: "James Whitfield", rating: 5, comment: "The audit uncovered issues nobody had noticed. Our traffic is already improving.", createdAt: "2026-09-12T10:00:00Z" },
+  { id: "r6", orderId: null, gigId: "g9", freelancerId: "f5", clientId: "x4", clientName: "Lena Fischer", rating: 5, comment: "Emily's designs were intuitive and our developers loved the handoff.", createdAt: "2026-09-18T10:00:00Z" },
+  { id: "r7", orderId: null, gigId: "g11", freelancerId: "f6", clientId: "x5", clientName: "Omar Haddad", rating: 4, comment: "Solid app, smooth performance. A few small tweaks needed but handled quickly.", createdAt: "2026-10-02T10:00:00Z" },
+  { id: "r8", orderId: null, gigId: "g6", freelancerId: "f3", clientId: "x6", clientName: "Chloe Bennett", rating: 5, comment: "Articles were engaging and already ranking on page one.", createdAt: "2026-10-10T10:00:00Z" },
+];
